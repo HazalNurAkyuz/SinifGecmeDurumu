@@ -24,7 +24,7 @@ public class Main {
             System.out.println("Sinifi Gectiniz");
         }
         else {
-            System.out.println("Sinifta Kaldiniz");
+            System.out.println("Sinifta Kaldiniz!");
         }
 
     }
